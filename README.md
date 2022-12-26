@@ -25,13 +25,13 @@ Biaya parkir memiliki ketentuan sebagai berikut.
 	- Kamis: hitam
 	- Jumat: putih
 	- Sabtu: Selain hitam dan putih
-	- Minggu: hitam<br>
-Kondisi ini juga mempertimbangkan warna kendaraan pada antrean paling depan. Apabila kendaraan di antrean depan memiliki warna yang sama dengan ketentuan hari, maka pelanggan prioritas dilayani setelah beberapa kendaraan dengan warna yang sesuai hari tersebut selesai dilayani.
+	- Minggu: hitam
+<br>Kondisi ini juga mempertimbangkan warna kendaraan pada antrean paling depan. Apabila kendaraan di antrean depan memiliki warna yang sama dengan ketentuan hari, maka pelanggan prioritas dilayani setelah beberapa kendaraan dengan warna yang sesuai hari tersebut selesai dilayani.
 3. Parkir dengan durasi <= 5 menit tidak dikenakan biaya (gratis).
 4. Parkir pada 60 menit pertama dikenakan biaya:
 	- R2: 5000
-	- R4: 10000<br>
-Untuk durasi selanjutnya, dikenakan biaya 1000 setiap 60 menit berikutnya.
+	- R4: 10000
+<br>Untuk durasi selanjutnya, dikenakan biaya 1000 setiap 60 menit berikutnya.
 
 Penerapan struktur data pada kasus:
 1. Queue, digunakan untuk menyimpan data antrean kendaraan dengan metode First In First Out.
