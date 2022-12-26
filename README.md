@@ -1,12 +1,13 @@
 # Sistem Pembayaran Parkir
+STRUKTUR DATA KELAS C
+<br>
 KELOMPOK 1
 1. 20081010240 Desya Ristya Putri
 2. 21081010064 Faris Munir Mahdi
 3. 21081010066 Nauval Maulana Rizky Irawan
 4. 21081010065 Achmad Robby Sabilul Firdaus
 5. 20081010174 Satria Aqilla Gunawan
-<br>
-STRUKTUR DATA KELAS C
+
 <br>
 Studi kasus: Sistem Pembayaran Keluar Parkir Kendaraan
 <br>
