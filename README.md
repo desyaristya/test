@@ -1,5 +1,10 @@
 # Sistem Pembayaran Parkir
 KELOMPOK 1
+1. 20081010240 Desya Ristya Putri
+2. 21081010064 Faris Munir Mahdi
+3. 21081010066 Nauval Maulana Rizky Irawan
+4. 21081010065 Achmad Robby Sabilul Firdaus
+5. 20081010174 Satria Aqilla Gunawan
 <br>
 STRUKTUR DATA KELAS C
 <br>
@@ -26,7 +31,6 @@ Biaya parkir memiliki ketentuan sebagai berikut.
 	- Jumat: putih
 	- Sabtu: Selain hitam dan putih
 	- Minggu: hitam
-<br>Kondisi ini juga mempertimbangkan warna kendaraan pada antrean paling depan. Apabila kendaraan di antrean depan memiliki warna yang sama dengan ketentuan hari, maka pelanggan prioritas dilayani setelah beberapa kendaraan dengan warna yang sesuai hari tersebut selesai dilayani.
 3. Parkir dengan durasi <= 5 menit tidak dikenakan biaya (gratis).
 4. Parkir pada 60 menit pertama dikenakan biaya:
 	- R2: 5000
